@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(212, 207, 207);
+}
+.id{
+    background: #f786869d;
+    padding: 20px;
+    display: block;
+}
+.title{
+    font-size: 20px;
+    background: #345434;
+    padding: 15px;
+}
+.body{
+    background: #989432;
+    padding: 20px;
+}

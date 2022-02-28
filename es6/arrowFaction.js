@@ -36,3 +36,18 @@ console.log(total);
 
 const y = x => x * x;
 const z = y(5)
+
+
+const devisionNumber = number => number / 5;
+const re = devisionNumber(25);
+console.log(re);
+
+const twoNumberMultiply = (num1,num2) => {
+    const input1 =  num1 + 2;
+    const input2 = num2 + 2;
+    const totalAdd = input1 + input2;
+    const multiply = totalAdd * 2;
+    return multiply;
+}
+const total1 = twoNumberMultiply(23, 23);
+console.log(total1);
